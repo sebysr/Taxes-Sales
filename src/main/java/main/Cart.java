@@ -16,7 +16,7 @@ import resources.*;
 
 public class Cart {
 	
-	private static ArrayList<Product> myListGood= new ArrayList<Product>();
+    private static ArrayList<Product> myListGood= new ArrayList<Product>();
     public static void main (String[] args) throws java.lang.Exception
     
     {
